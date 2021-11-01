@@ -2,3 +2,4 @@
 receipts/
 !receipts/data
 logs/log_*
+!logs/log_01
