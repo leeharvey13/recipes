@@ -1,7 +1,7 @@
 Humus 
 
-chickpeas
-lemon
-olive oil 
-salt
+- chickpeas
+- lemon
+- olive oil 
+- salt
 
