@@ -2,3 +2,5 @@
 receipts/
 !receipts/data
 logs/log_*
+storage/
+!storage/s3
