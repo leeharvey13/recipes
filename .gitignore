@@ -1,3 +1,4 @@
 *.png
 receipts/
 !receipts/data
+logs/log_*
